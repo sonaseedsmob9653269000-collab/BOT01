@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BonfireSMP.aternos.me:16880",
+    "port": 16880,
     "version": "",
     "try-creative": false
   },
